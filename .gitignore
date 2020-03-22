@@ -31,3 +31,8 @@
 *.out
 *.app
 /build/
+
+src/query/generated_*
+src/query/location.hh
+src/query/position.hh
+src/query/stack.hh
