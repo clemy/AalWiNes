@@ -1,5 +1,5 @@
 %skeleton "lalr1.cc" /* -*- C++ -*- */
-%require "3.0.5"
+%require "3.0.4"
 %defines
 %define api.namespace {aalwines}
 %define parser_class_name {Parser}
